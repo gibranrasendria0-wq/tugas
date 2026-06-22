@@ -1,0 +1,2 @@
+1.  Modularisasi JavaScript adalah teknik membagi kode ke beberapa file sesuai tugasnya, lalu menghubungkannya menggunakan    export dan import agar program lebih terstruktur dan mudah dikelola.
+2.  contohnya kayak tukang listrik ya tugasnya cuma benerin listrik trus kayak ibu rumah tangga ya tugasnya di rumah ngurus anak sama pekerjaan rumah
